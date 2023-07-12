@@ -5,3 +5,7 @@
 ![image](https://github.com/BernardoFernandes25/GERENCIAMENTO-DE-PROJETOS/assets/139241276/0a550bb9-fe7b-4691-848d-5a8e4d4e6bae)
 
 ![image](https://github.com/BernardoFernandes25/GERENCIAMENTO-DE-PROJETOS/assets/139241276/b893715e-40e8-412e-ae37-e87483656b5c)
+
+## AUTOR
+* BERNARDO FERNANDES RIBEIRO
+* BASE: https://www.youtube.com/watch?v=fMOxbw29Ep0
